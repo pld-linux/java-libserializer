@@ -3,7 +3,6 @@
 %bcond_without	javadoc		# don't build javadoc
 
 %define		srcname		libserializer
-%include	/usr/lib/rpm/macros.java
 Summary:	JFreeReport General Serialization Framework
 Name:		java-%{srcname}
 Version:	1.1.2
